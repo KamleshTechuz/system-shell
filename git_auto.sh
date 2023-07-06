@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Branch name declaration
-pull_branch="dev" # branch name from which you want to take pull befor push.
-push_branch="dev" # branch name in which you want to push.
+pull_branch="main" # branch name from which you want to take pull befor push.
+push_branch="main" # branch name in which you want to push.
 
 # Prompt for commit message
 read -p "Enter commit message: " commit_message
